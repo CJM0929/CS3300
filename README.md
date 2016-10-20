@@ -1,6 +1,6 @@
 # CS3300
-Ricardo Torres Gonzales   #74017 
-Christian Morales Plaud   #79922 
+Ricardo Torres Gonzales   #74017  
+Christian Morales Plaud   #79922  
 James D. Fábregas Rivera  #80263 
  
 Program to translate FP numbers to decimal numbers.
